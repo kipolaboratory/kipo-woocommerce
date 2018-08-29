@@ -5,7 +5,7 @@ if ( ! session_id() ) {
 
 class kipopayGatewayClass {
 
-    const SERVER_URL = 'https://backend.kipopay.com:8091/V1.0/processors/json/';
+    const SERVER_URL = 'https://backend.kipopay.com/V1.0/processors/json/';
 
 	/**
 	 * SEND ORDER TO KipoPay Gateway
