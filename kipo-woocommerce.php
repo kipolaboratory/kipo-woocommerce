@@ -3,7 +3,7 @@
  * Plugin Name: افزونه درگاه پرداخت کیپو برای ووکامرس
  * Plugin URI: kipopay.com
  * Description: افزودن درگاه پرداخت کیپو
- * Version: 0.5.2
+ * Version: 0.5.2.1
  * Author: Kipo Development team
  * License: GPL2
  * Domain Path: /languages/
