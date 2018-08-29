@@ -9,6 +9,7 @@
  * Domain Path: /languages/
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
+
 define('PLUGINAME', 'kipo-woocommerce');
 
 add_action('init', 'kipo_woocommerce_plugin_initial');
